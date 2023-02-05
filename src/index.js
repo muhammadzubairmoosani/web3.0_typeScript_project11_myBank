@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import { createAccount } from "./createAccount.js";
 const deposit = async (account) => {

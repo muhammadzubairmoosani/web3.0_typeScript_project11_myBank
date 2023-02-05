@@ -1,5 +1,5 @@
 {
-  "name": "web3.0_typescript_project10_oop",
+  "name": "inquirer_oop_example_11_zm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project10_OOP.git"
   },
-  "keywords": [],
-  "author": "",
+  "bin": "./scr/index.js",
+  "keywords": [
+    "TypeScript", "OOP", "inquirer", "command-line", "interface", "prompts", "input validation", "console", "CLI", "question", "answer", "user interaction"
+  ],
+  "author": "zubair moosani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project10_OOP/issues"
